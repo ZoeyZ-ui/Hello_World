@@ -5,7 +5,7 @@ Hi!
 
 Zoey here, I'm currently a junior studying Business Analytics and Accounting in the University of Iowa. Nice to meet you all! 
 
-#Table of Contents 
+###Table of Contents 
 1. *PROJECT TITLE* 
 2. *DISCRIPTION*
 3. *HOW TO RUN PROGRAM* 
@@ -13,7 +13,7 @@ Zoey here, I'm currently a junior studying Business Analytics and Accounting in 
 5. *ADDITIONAL DOCUMENTATION* 
 6. *VERSIONING* 
 
-#Project Title 
+###Project Title 
 Hello World Example 
 
 #Discription 
