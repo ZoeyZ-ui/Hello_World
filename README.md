@@ -1,4 +1,3 @@
-# Hello_World
 # Just another repository 
 Hi! Zoey here, I'm currently a junior studying Business Analytics and Accounting in the University of Iowa. Nice to meet you all! 
 
@@ -25,7 +24,7 @@ Explain here how you would run the program and what files need to be available.
 - Where you got them
 - What is contained within the data files?
 - Datafile considerations
-- URL links to files - example here:
+- URL links to files 
 
 # Additional documentation
 No additional documentation at this time. Here is some BOLD text
