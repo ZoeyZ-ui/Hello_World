@@ -31,7 +31,7 @@ Explain here how you would run the program and what files need to be available.
 - URL links to files - example here: <https://pages.github.com/>
 
 # Additional documentation
-No additional documentation at this time. Here is some BOLD text
+No additional documentation at this time. Here is some **BOLD** text
 
 # Versioning 
 Discuss any versioning used especially if you are making major changes throughout the process of your code.
