@@ -17,6 +17,10 @@ Practice using GitHub by creating a sample repository
 
 # How to run program 
 Explain here how you would run the program and what files need to be available.
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 # Files used 
 - Did you use any datafiles?
